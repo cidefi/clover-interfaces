@@ -1,0 +1,15 @@
+{
+  "name": "stats.clover.rocks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dtrash <suicide.finance> (suicide.finance)",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "web3": "^1.3.0"
+  }
+}
